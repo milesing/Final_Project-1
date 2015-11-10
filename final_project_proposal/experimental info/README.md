@@ -1,1 +1,0 @@
-2015-10-26, Anders Hornor. This section is a directory that stores both result and data sets. I've compiled this information into this directory in order to possibly add more directories to place data and results in relation to each other instead of in seperate places. Possibly an experiment chronology directory that stores realted data and resultes files together.
